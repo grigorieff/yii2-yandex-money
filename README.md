@@ -9,13 +9,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist grigorieff/yii2-yandex-money "stable"
+php composer.phar require --prefer-dist grigorieff/yii2-yandex-money "*"
 ```
 
 or add
 
 ```json
-"grigorieff/yii2-yandex-money": "stable"
+"grigorieff/yii2-yandex-money": "*"
 ```
 
 to the require section of your composer.json.
