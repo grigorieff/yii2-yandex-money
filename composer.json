@@ -1,0 +1,14 @@
+{
+    "name": "grigorieff/yii2-yandex-money",
+    "description": "Yii2 component for yandex modey integration in your web application",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Grigorieff",
+            "email": "grigorief@gmail.com"
+        }
+    ],
+    "require": {
+        "yandex-money/yandex-money-sdk-php": "*"
+    }
+}
