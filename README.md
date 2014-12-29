@@ -30,7 +30,7 @@ Add to your app config:
 
         .........
 
-        'aws' => [
+        'ym' => [
             'class' => grigorieff\ym\YMComponent,
             'client_id' => '......',
             'code' => '......',
