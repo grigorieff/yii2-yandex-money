@@ -31,7 +31,7 @@ Add to your app config:
         .........
 
         'ym' => [
-            'class' => grigorieff\ym\YMComponent,
+            'class' => 'grigorieff\ym\YMComponent',
             'client_id' => '......',
             'code' => '......',
             'redirect_uri' => '......',
